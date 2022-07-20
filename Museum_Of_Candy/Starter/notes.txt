@@ -1,0 +1,51 @@
+
+
+
+bootstrap practice project 
+Museum of Candy
+videos:
+
+part-2:
+            layout and assets 
+part-3:
+            body bg-color= #f5d9d5
+            navbar 
+                burger Toggler and links
+                nav logo   
+                (makeup)font 'nunito'
+                        color #EA1C2C;
+                        size 1.5rem
+                        weight 100
+                        hover
+                        postion fixed-top
+                        bg-appears on scroll
+
+                main grid layout
+                container row1 6-6on large and displayNone at <large
+                align-items-center
+                text-center
+part-4:
+        x    section container 
+         x   row 
+          x  col-md-6 img[scr:milk.png] 
+        x    col-md-6 h2 lolli_icon p{lorem}
+         x   center
+          x  nest row
+        x    center
+         x   lolli disappear at somepoint
+          x  reordering columns
+        x    font weight
+         x   color h2 red one 2.5rem
+        x    color p #f498b8  1.125rem line-height 2
+         x   .row.content margin-topandbottom 100px
+
+part-5:
+        x    gumball.png
+         x   p mobile mb-5
+          x  scroll nav bg
+        x   scroll script
+
+
+                
+            
+            
